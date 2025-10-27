@@ -33,10 +33,3 @@ A **machine learning web app** built with **Logistic Regression** and the **MNIS
 4. Streamlit displays the **predicted digit** interactively  
 
 ---
-
-## ⚙️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/digit-2-detector.git
-   cd digit-2-detector
